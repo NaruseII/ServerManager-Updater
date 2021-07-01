@@ -11,7 +11,7 @@
 	},
 	"acceptStart": {
 		"file-manager": false,
-		"packet-manager": true,
+		"packet-manager": false,
 		"bukkit-manager": true,
 		"bungee-manager": true,
 		"sponge-manager": true,
