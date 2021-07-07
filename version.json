@@ -5,7 +5,7 @@
 			"enabled": true,
 			"duration": 10000
 		},
-		"bypassForVersion": ["1.0.4", "1.0.5"],
+		"bypassForVersion": [],
 		"downloadUrls": ["https://www.mc-market.org/resources/20469/", "https://songoda.com/marketplace/product/server-manager-auto-server-creator-all-server-types-software-and-plugin-that-allows-you-to-create-servers-automatically.633"],
 		"support": "https://discord.gg/eAM3gp35qy"
 	},
