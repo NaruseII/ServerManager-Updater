@@ -1,11 +1,11 @@
 {
-	"latestVersion": "1.0.17",
+	"latestVersion": "1.0.18",
 	"notUpToDate": {
 		"sleep": {
 			"enabled": true,
 			"duration": 10000
 		},
-		"bypassForVersion": [],
+		"bypassForVersion": ["1.0.17"],
 		"downloadUrls": ["https://www.mc-market.org/resources/20469/"],
 		"support": "https://discord.gg/eAM3gp35qy"
 	},
