@@ -15,6 +15,7 @@
 		"bukkit-manager": true,
 		"bungee-manager": true,
 		"sponge-manager": true,
-		"velocity-manager": true
+		"velocity-manager": true,
+		"nukkit-manager": true
 	}
 }
